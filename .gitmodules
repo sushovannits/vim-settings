@@ -1,0 +1,81 @@
+[submodule "my_plugins/YouCompleteMe"]
+	path = my_plugins/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "my_plugins/calendar-vim"]
+	path = my_plugins/calendar-vim
+	url = https://github.com/mattn/calendar-vim.git
+[submodule "my_plugins/fireplace"]
+	path = my_plugins/fireplace
+	url = https://tpope.io/vim/fireplace.git
+[submodule "my_plugins/fzf-preview.vim"]
+	path = my_plugins/fzf-preview.vim
+	url = https://github.com/yuki-ycino/fzf-preview.vim.git
+[submodule "my_plugins/fzf.vim"]
+	path = my_plugins/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "my_plugins/fzf"]
+	path = my_plugins/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "my_plugins/jedi-vim"]
+	path = my_plugins/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "my_plugins/paredit.vim"]
+	path = my_plugins/paredit.vim
+	url = https://github.com/vim-scripts/paredit.vim.git
+[submodule "my_plugins/rainbow"]
+	path = my_plugins/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+[submodule "my_plugins/ultisnips"]
+	path = my_plugins/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "my_plugins/vim-agriculture"]
+	path = my_plugins/vim-agriculture
+	url = https://github.com/jesseleite/vim-agriculture.git
+[submodule "my_plugins/vim-cljfmt"]
+	path = my_plugins/vim-cljfmt
+	url = https://github.com/venantius/vim-cljfmt.git
+[submodule "my_plugins/vim-clojure-highlight"]
+	path = my_plugins/vim-clojure-highlight
+	url = https://github.com/guns/vim-clojure-highlight.git
+[submodule "my_plugins/vim-clojure-static"]
+	path = my_plugins/vim-clojure-static
+	url = https://github.com/guns/vim-clojure-static.git
+[submodule "my_plugins/vim-devicons"]
+	path = my_plugins/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "my_plugins/vim-dispatch"]
+	path = my_plugins/vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
+[submodule "my_plugins/vim-go-tutorial"]
+	path = my_plugins/vim-go-tutorial
+	url = https://github.com/fatih/vim-go-tutorial.git
+[submodule "my_plugins/vim-go"]
+	path = my_plugins/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "my_plugins/vim-projectionist"]
+	path = my_plugins/vim-projectionist
+	url = git://github.com/tpope/vim-projectionist.git
+[submodule "my_plugins/vim-ps1"]
+	path = my_plugins/vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
+[submodule "my_plugins/vim-scala"]
+	path = my_plugins/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "my_plugins/vim-snippets"]
+	path = my_plugins/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "my_plugins/vim-textobj-entire"]
+	path = my_plugins/vim-textobj-entire
+	url = https://github.com/kana/vim-textobj-entire.git
+[submodule "my_plugins/vim-textobj-line"]
+	path = my_plugins/vim-textobj-line
+	url = https://github.com/kana/vim-textobj-line.git
+[submodule "my_plugins/vim-textobj-user"]
+	path = my_plugins/vim-textobj-user
+	url = https://github.com/kana/vim-textobj-user.git
+[submodule "my_plugins/vim"]
+	path = my_plugins/vim
+	url = https://github.com/dracula/vim
+[submodule "my_plugins/vimwiki"]
+	path = my_plugins/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
